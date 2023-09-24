@@ -1,6 +1,7 @@
 # yazilim-notlarim
 
 ### some notes I've took about programming and cs through the last couple of years. probably full of errors, outdated information (due to outdated resources), important lacks etc. will try to update as much as possible.
+
 * [42 notes](https://bugrahankaramollaoglu.notion.site/42-notlar-6dce256d992d4de3bc371f60f518ba91?pvs=4) : notes on each but not every project of 42's curriculum. usually feeded by documentation pages, chatgpt and others' codes. 
 * [bash notes](https://bugrahankaramollaoglu.notion.site/bash-notlar-2695abd228a34529bff82dcadcf2ac13?pvs=4) : mostly through direct examples.
 * [deitel how to C program - book](https://bugrahankaramollaoglu.notion.site/deitel-how-to-program-c-notlar-7089d02d07ce4378b28c6a662c3c657f?pvs=4) : perhaps the most famous C/C++ book. I do not really recommend reading the book itself, it is quite verbose and a bit outdated [8th edition).

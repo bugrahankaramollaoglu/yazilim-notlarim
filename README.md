@@ -10,6 +10,7 @@
 * [c/c++ notes](https://bugrahankaramollaoglu.notion.site/random-c-c-notes-9e3890b180bb40ccb900c7fd72a43e3a?pvs=4) : random notes from a lot of different sources, websites, booklets, videos, blogs, tweets and so on. usually centered on quirks of C language - very helpful for understanding the nature and mechanism beneath it.
 * [python notes](https://bugrahankaramollaoglu.notion.site/muhtelif-python-notlar-7d127a3fe7ee453483909c586ed9828f?pvs=4) : random python notes.
 * [makefile notes](https://bugrahankaramollaoglu.notion.site/makefile-notlar-346c7ce6374a44c08f9b26f9ffe0b76c?pvs=4) : flipping through the official makefile documentation
+* [java notes](https://bugrahankaramollaoglu.notion.site/java-notlar-0e299c1e13214f308dc1ded7691b3b34?pvs=4) : from assorted resources
 * [cs notes](https://bugrahankaramollaoglu.notion.site/cs-notes-1c0a671ddbf049b49066ac3ea1ad16a5?pvs=4) : multiple sources, primarily OSSU
 * [git notes](https://bugrahankaramollaoglu.notion.site/git-notlar-d0c36f9e594f4390a9999b39d75958e4?pvs=4) : notes from github's official git cheatsheet
 * [flutter notes](https://bugrahankaramollaoglu.notion.site/flutter-98c3bdd6e33745d889c35411a73144c3?pvs=4) : notes from max's udemy, google oua and internet.

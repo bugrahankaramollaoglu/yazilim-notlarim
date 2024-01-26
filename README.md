@@ -1,6 +1,6 @@
 # my-programming-notes
 
-### some notes I've took about programming and cs since I started. probably some errors, outdated information (due to outdated resources), important lacks etc. will try to update as much as possible.
+### notes I've took related to computer science since I started learning programming. one would probably encounter some errors, outdated information (due to outdated resources), important lacks etc. will try to update as much as possible. all I know I learned from the internet, so giving back to the community thing
 
 * [42 notes](https://bugrahankaramollaoglu.notion.site/42-notlar-6dce256d992d4de3bc371f60f518ba91?pvs=4) : notes on each but not every project of 42's curriculum. usually feeded by documentation pages, chatgpt and others' codes.
 * [git notes](https://bugrahankaramollaoglu.notion.site/git-notlar-d0c36f9e594f4390a9999b39d75958e4?pvs=4) : notes from github's official git cheatsheet

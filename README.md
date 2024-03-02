@@ -1,6 +1,8 @@
 # my-programming-notes
 
-### notes I took related to computer science since I started learning programming. one would probably encounter some errors, outdated information (due to outdated resources), important lacks etc. will try to update as much as possible. all I know I learned from the internet, so giving back to the community thing
+![]()
+
+some notes I took related to cs. probably bunch of errors, outdated information, important lacks etc. will try to update as much as possible
 
 * [42 notes](https://bugrahankaramollaoglu.notion.site/42-notlar-6dce256d992d4de3bc371f60f518ba91?pvs=4) : notes on each but not every project of 42's curriculum. usually feeded by documentation pages, chatgpt and others' codes.
 * [git notes](https://bugrahankaramollaoglu.notion.site/git-notlar-d0c36f9e594f4390a9999b39d75958e4?pvs=4) : notes from github's official git cheatsheet
@@ -15,3 +17,4 @@
 * [android notes](https://bugrahankaramollaoglu.notion.site/android-notlar-398e83fced944c5692108921adc65630?pvs=4) : my notes on android (hardly java, mostly kotlin)
 * [linux notes](https://bugrahankaramollaoglu.notion.site/linux-notlar-4951ecd1019e4c1498157cbe68696a51?pvs=4) : from "linux komut satırı" (book) and cheatsheets
 * [java notes](https://bugrahankaramollaoglu.notion.site/java-notlar-0e299c1e13214f308dc1ded7691b3b34?pvs=4) : from assorted resources
+* [project management](https://bugrahankaramollaoglu.notion.site/proje-y-netimi-842b1b50194d487d8ad224fd7fede8f2?pvs=74) : coursera's 130+ hours course on art of project management

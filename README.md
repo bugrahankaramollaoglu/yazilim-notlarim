@@ -14,7 +14,8 @@ some notes I took related to cs. probably bunch of errors, outdated information,
 * [C programming Just the FAQs - book](https://bugrahankaramollaoglu.notion.site/c-programming-just-the-FAQs-DONE-944f8f6ee82148298c37713bb96bf746?pvs=4) : not really worth it
 * [necati ergin C ders notları](https://bugrahankaramollaoglu.notion.site/necati-ergin-c-ders-notlar-0662c25412974b26a3c99cb963fe8fc8?pvs=4) : best c source I've seen so far
 * [flutter notes](https://bugrahankaramollaoglu.notion.site/flutter-98c3bdd6e33745d889c35411a73144c3?pvs=4) : notes on flutter from different sources like maximilian schwarzmüller's udemy course, google OUA, self-study and so on
+* [project management](https://bugrahankaramollaoglu.notion.site/proje-y-netimi-842b1b50194d487d8ad224fd7fede8f2?pvs=74) : coursera's 130+ hours course on art of project management
 * [android notes](https://bugrahankaramollaoglu.notion.site/android-notlar-398e83fced944c5692108921adc65630?pvs=4) : my notes on android (hardly java, mostly kotlin)
+* [kotlin notes](https://bugrahankaramollaoglu.notion.site/kotlin-notlar-b74facff79694d0a94164deee9b2475b?pvs=4) : my notes on kotlin
 * [linux notes](https://bugrahankaramollaoglu.notion.site/linux-notlar-4951ecd1019e4c1498157cbe68696a51?pvs=4) : from "linux komut satırı" (book) and cheatsheets
 * [java notes](https://bugrahankaramollaoglu.notion.site/java-notlar-0e299c1e13214f308dc1ded7691b3b34?pvs=4) : from assorted resources
-* [project management](https://bugrahankaramollaoglu.notion.site/proje-y-netimi-842b1b50194d487d8ad224fd7fede8f2?pvs=74) : coursera's 130+ hours course on art of project management

@@ -1,10 +1,8 @@
 # my-programming-notes
 
-![]()
+hundreds of pages of notes about cs I took throughout the years. Beware, I only keep them as a reminder of how not to learn programming.
 
-some notes I took related to cs. probably bunch of errors, outdated information, important lacks etc. will try to update as much as possible
-
-* [42 notes](https://bugrahankaramollaoglu.notion.site/42-notlar-6dce256d992d4de3bc371f60f518ba91?pvs=4) : notes on each but not every project of 42's curriculum. usually feeded by documentation pages, chatgpt and others' codes.
+* [42 notes](https://bugrahankaramollaoglu.notion.site/42-notlar-6dce256d992d4de3bc371f60f518ba91?pvs=4) : notes on each but not every project of 42's curriculum. usually fed by documentation pages, chatgpt and others' codes.
 * [git notes](https://bugrahankaramollaoglu.notion.site/git-notlar-d0c36f9e594f4390a9999b39d75958e4?pvs=4) : notes from github's official git cheatsheet
 * [cs notes](https://bugrahankaramollaoglu.notion.site/cs-notes-1c0a671ddbf049b49066ac3ea1ad16a5?pvs=4) : multiple sources, primarily OSSU
 * [makefile notes](https://bugrahankaramollaoglu.notion.site/makefile-notlar-346c7ce6374a44c08f9b26f9ffe0b76c?pvs=4) : flipping through the official makefile documentation
